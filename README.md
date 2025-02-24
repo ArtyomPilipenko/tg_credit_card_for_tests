@@ -15,11 +15,11 @@
 
 Стартовое меню:
 
-![image](https://raw.githubusercontent.com/ArtyomPilipenko/tg_credit_card_for_tests/refs/heads/master/start_menu.png)
+![image]()
 
 После выбора карты Visa:
 
-![image](https://raw.githubusercontent.com/ArtyomPilipenko/tg_credit_card_for_tests/refs/heads/master/mastercard_card.png)
+![image]()
 
 
 ## 💻 Технологии
